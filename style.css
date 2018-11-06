@@ -140,7 +140,7 @@ h3, h2 {
 
 /* portfolio page */
 
-.work {
+.img-{
   position: relative;
   float: left;
   width: 274px;
@@ -172,7 +172,7 @@ h3, h2 {
   border-bottom: 0;
 }
 
-.auth-image {
+.img-thumbnail {
   float: left;
   width: 200px;
   height: auto;
